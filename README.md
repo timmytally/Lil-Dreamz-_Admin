@@ -7,7 +7,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://www.youtube.com/@YourPenPal" target="_blank">
+  <a aria-label="Join our chats" href="https://youtube.com/@lildreamzkartel?si=QD5DETwTgsnk-MUu" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
